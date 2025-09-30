@@ -6,7 +6,7 @@
 ### Step 1 : Creating Passwords
 We start with a very simple password and gradually improve it by adding complexity.<br>
 Password Example	   <br>               
-`password123`        -    Common word + numbers (weak, dictionary vulnerable)  <br>
+`password123`     <t>   -    Common word + numbers (weak, dictionary vulnerable)  <br>
 `Password123!`	     -    Added uppercase + symbol (better but still predictable) <br>
 `Pa$$w0rd2025!`      -	  Substituted letters with symbols, added year (medium strength) <br>
 `!QwErTy2025#`	     -    Random case + numbers + symbol (stronger, less predictable) <br>
