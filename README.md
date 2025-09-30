@@ -33,6 +33,7 @@ High complexity, length, and randomness.
 5.  Do not reuse passwords—consider a password manager.
 
 ### Step 4 : Common Password Attacks
+Content source: https://expertinsights.com/identity-and-access-management/the-8-most-common-types-of-password-attacks
 1. **Phishing** — Tricks users (via fake emails/sites) into handing over credentials; relies on human error. Example: a fake PayPal email forces a user to log in on a cloned site so the attacker steals the real credentials. If passwords are reused, the attacker can access multiple accounts.
 2. **Credential stuffing** — Attackers reuse stolen username/password pairs across many services to find reused credentials. It exploits humans tendency to reuse passwords, check compromises with haveibeenpwned.com.
 3. **Brute force attacks** — Automated programs try every possible character combination until the password is found. They often start with very common passwords (e.g., 123456, password) and can factor in site rules; 80%+ breaches involve these techniques and attackers sometimes bypass attempt limits.
