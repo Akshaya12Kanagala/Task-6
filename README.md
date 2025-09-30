@@ -6,8 +6,21 @@
 ### Step 1 : Creating Passwords
 We start with a very simple password and gradually improve it by adding complexity.<br>
 Password Example	   <br>               
-`password123`     <t>   -    Common word + numbers (weak, dictionary vulnerable)  <br>
+`password123`        -    Common word + numbers (weak, dictionary vulnerable)  <br>
 `Password123!`	     -    Added uppercase + symbol (better but still predictable) <br>
 `Pa$$w0rd2025!`      -	  Substituted letters with symbols, added year (medium strength) <br>
 `!QwErTy2025#`	     -    Random case + numbers + symbol (stronger, less predictable) <br>
 `9$TgH@1!pLk#2025Zz` -    Long, random mix of all character types (very strong) <br>
+
+### Step 2 : Testing Passwords
+Using https://passwordmeter.com, the results were:<br>
+`password123` → Weak  <br>
+Short length, dictionary word, predictable. <br>
+`Password123!` → Medium <br>
+Includes uppercase and symbol, but still guessable. <br>
+`Pa$$w0rd2025!` → Medium/Strong  <br>
+Substitutions help but attackers often try these patterns. <br>
+`!QwErTy2025#` → Strong <br>
+Longer, mixed characters, unpredictable. <br>
+`9$TgH@1!pLk#2025Zz` → Very Strong <br>
+High complexity, length, and randomness.
