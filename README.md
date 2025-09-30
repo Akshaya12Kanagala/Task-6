@@ -46,3 +46,9 @@ High complexity, length, and randomness.
 Password complexity + length = stronger security. <br>
 Weak passwords fall quickly to brute force and dictionary attacks.<br>
 Strong passwords combine randomness, length, and mixed characters.<br>
+
+### Outcome
+By testing different passwords, I understood that: <br>
+Simple = Unsafe   <br>
+Random + Long = Safe       <br>
+The best tested password (9$TgH@1!pLk#2025Zz) was rated Very Strong, proving that complexity and unpredictability significantly increase security.
