@@ -24,3 +24,10 @@ Substitutions help but attackers often try these patterns. <br>
 Longer, mixed characters, unpredictable. <br>
 `9$TgH@1!pLk#2025Zz` → Very Strong <br>
 High complexity, length, and randomness.
+
+### Step 3 : Best Practices Learned
+1. ✅ Use at least 12–16 characters.
+2. ✅ Mix uppercase, lowercase, numbers, and symbols.
+3. ✅ Avoid dictionary words and common substitutions (Pa$$w0rd is weak).
+4. ✅ Use random strings or passphrases for memorability.
+5. ✅ Do not reuse passwords—consider a password manager.
